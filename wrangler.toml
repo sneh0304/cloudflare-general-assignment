@@ -1,0 +1,6 @@
+name = "cloudflare-test"
+type = "webpack"
+account_id = "34648099a39b8d8522b765347a995ae9"
+workers_dev = true
+route = ""
+zone_id = ""
